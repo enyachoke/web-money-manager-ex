@@ -1,0 +1,10 @@
+{
+    "name": "mmex",
+    "short_name": "mmex",
+    "theme_color": "#52ab52",
+    "background_color": "#52ab52",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/landing.php"
+}
